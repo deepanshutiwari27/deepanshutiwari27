@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshutiwari27&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshutiwari27" /> </p>
 
+- 📫 How to reach me **tiwarideepanshu235@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/deepu_336" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepu_336" height="30" width="40" /></a>
