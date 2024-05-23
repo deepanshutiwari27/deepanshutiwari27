@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshutiwari27&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshutiwari27" /> </p>
 
-- 📫 How to reach me **tiwarideepanshu235@gmail.com**
+- 📫 please contact me for any freelance work **tiwarideepanshu235@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
